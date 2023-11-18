@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project involves the implementation of a classification model using various machine learning algorithms to predict a target variable. 
-The dataset is loaded, preprocessed, and used to train different classification models. 
-The evaluation of the models is conducted using metrics such as confusion matrix, learning curves, and other relevant performance indicators.
+This project involves the implementation of a regression model using various machine learning algorithms to predict a continuous target variable. 
+The dataset is loaded, preprocessed, and used to train different regression models. 
+The evaluation of the models is conducted using metrics such as mean squared error, R-squared, learning curves, and other relevant performance indicators.
 ## Overall Steps:
 1. Import all Libraries & Load the Dataset
    Import necessary libraries for data manipulation, visualization, and machine learning.
